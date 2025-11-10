@@ -51,25 +51,22 @@ It simulates a **real-world banking analytics environment**, from **data ingesti
       [ Hive Data Warehouse ]
                   |
                   ▼
-   [ Apache Spark for EDA & Aggregation ]
+       [ Apache Spark for EDA & Aggregation ]
                   |
                   ▼
-  [ Spark MLlib Model Training & Tuning ]
+      [ Spark MLlib Model Training & Tuning ]
                   |
                   ▼
-
-
-[ Spark Structured Streaming for Real-Time ML ]
-|
-▼
-[ Live Insights & Predictions ]
+    [ Spark Structured Streaming for Real-Time ML ]
+                  |
+                  ▼
+     [ Live Insights & Predictions ]
 
 
 ---
 
 ## 🧮 Dataset Information
 **Dataset Name:** `bank.csv`  
-**Source:** [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
 | Column | Description |
 |---------|--------------|
@@ -137,11 +134,4 @@ It simulates a **real-world banking analytics environment**, from **data ingesti
 
 > *Spark Structured Streaming continuously updates job-level averages and predicts subscription likelihood for each new transaction in real-time.*
 
----
-
-## 📦 Project Structure
-
-
-
-## 🏗️ Architecture Diagram
 
